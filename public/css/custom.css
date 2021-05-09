@@ -1,0 +1,27 @@
+main {
+    background-image: url("/images/main-bg.jpg");
+}
+
+
+/* main.js - 19 */
+.hp-place-div {
+    background-color: rgba(255,255,255,0.8);  
+}
+
+/* main.js - 24 
+
+background: rgb(231, 212, 42);
+*/
+.hp-place-btn {
+    width: 180px;
+}
+
+.hp-place-btn2 {
+    margin: 3% 17% 3% 17%;
+}
+
+.hp-place-img:hover {
+    border-bottom: 5px solid rgb(231, 212, 42);
+}
+
+/* #04566E */
